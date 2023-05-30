@@ -7,4 +7,4 @@ This console program outputs the day of February in Ukrainian in the following f
 # example:
 Current day: 5/30/2023 
 
-Output output: 484 лютого 2022 р.
+Console output: 484 лютого 2022 р.
